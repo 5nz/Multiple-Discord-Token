@@ -17,6 +17,3 @@
 # 𝓒𝓻𝓮𝓭𝓲𝓽𝓼
 <p align="center">
     <a>𝓜𝓪𝓭𝓮 𝓫𝔂 5𝓷𝔃</a>
-
-<p align="center">
-    <a># 𝓒𝓻𝓮𝓭𝓲𝓽𝓼</a>
